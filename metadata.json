@@ -1,0 +1,7 @@
+{
+  "name": "Realix AI - Deepfake Detection",
+  "description": "A premium AI-powered platform for detecting deepfakes and media manipulation using advanced visual forensics and Gemini vision models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
